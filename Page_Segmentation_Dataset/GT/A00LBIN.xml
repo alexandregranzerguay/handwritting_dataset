@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="Mudit" date="11/23/2009 3:52" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Wontaek" date="Mon Dec 17 04:12:13 EST 2007" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="A00LBIN.TIF" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="A00LBIN.TIF" pageID="1" width="2592" height="3300">
+			<DL_ZONE gedi_type="text_lg" id="000" col="1194" row="120" width="1214" height="99" zoneType="page-header" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_lg" id="001" col="468" row="348" width="1761" height="128" zoneType="title" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="002" col="394" row="518" width="1904" height="126" zoneType="synopsis" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="halftone" id="003" col="285" row="809" width="1394" height="883" zoneType="non-text" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_lg" id="004" col="294" row="1825" width="77" height="77" zoneType="drop-cap" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="006" col="290" row="1836" width="637" height="1226" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="009" col="1030" row="1828" width="643" height="1228" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sym" id="00F" col="290" row="3100" width="437" height="30" zoneType="reader-service" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00G" col="1830" row="3110" width="535" height="23" zoneType="page-footer" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00H" col="2395" row="3110" width="28" height="20" zoneType="page-number" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="10" col="1768" row="813" width="644" height="2229"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

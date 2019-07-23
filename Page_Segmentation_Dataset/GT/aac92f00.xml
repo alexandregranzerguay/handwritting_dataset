@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="B00377" date="October 26, 2007 9:33 AM">	</USER>
+	<USER name="B1068" date="October 22, 2007 11:00 AM">	</USER>
+	<DL_DOCUMENT src="aac92f00.tif" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="aac92f00.tif" pageID="1" width="2544" height="3231">
+			<DL_ZONE gedi_type="MACHINEPRINT" id="1" col="1024" row="3052" width="568" height="107" orientation="0.007042137108312186" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="2" col="108" row="160" width="236" height="52" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="3" col="1916" row="160" width="404" height="54" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="4" col="104" row="224" width="756" height="2820" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="5" col="954" row="228" width="566" height="82" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="6" col="870" row="322" width="716" height="2716" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="7" col="1662" row="230" width="1" height="1" polygon="(1644,236);(1608,300);(1604,3028);(2410,3058);(2358,238);(1642,238)" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="HANDPRINT" id="8" col="1708" row="44" width="1" height="1" polygon="(1702,54);(1692,142);(1746,142);(1756,186);(1842,208);(1844,210);(1886,210);(1904,196);(1906,160);(1910,136);(2020,98);(2018,64);(1982,60);(1850,60);(1784,34);(1744,36);(1698,54)" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="9" col="912" row="232" width="1" height="1" polygon="(906,246);(850,314);(832,278);(866,244);(886,212);(960,200);(1256,212);(1594,210);(1656,210);(1590,318);(1566,300);(1600,238);(1518,240);(946,234);(906,244)" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="10" col="776" row="158" width="926" height="56" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="11" col="1612" row="2950" width="1" height="1" polygon="(1614,2950);(1624,2986);(2332,2984);(2340,2902);(2376,2912);(2372,3018);(1594,3008);(1588,2944);(1616,2950)" contents=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

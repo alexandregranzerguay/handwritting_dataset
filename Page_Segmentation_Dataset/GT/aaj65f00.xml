@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="Bharath" date="October 22, 2007 10:16 PM">	</USER>
+	<USER name="b01005" date="October 22, 2007 7:31 PM">	</USER>
+	<USER name="b01069" date="October 19, 2007 8:01 AM">	</USER>
+	<DL_DOCUMENT src="aaj65f00.tif" docTag="xml" NrOfPages="3">
+		<DL_PAGE gedi_type="DL_PAGE" src="aaj65f00.tif" pageID="1" width="1575" height="1200">
+			<DL_ZONE gedi_type="TABLE" id="1" col="4" row="198" width="1392" height="980" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="2" col="400" row="88" width="194" height="35" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="3" col="227" row="131" width="950" height="59" orientation="-0.023325567253403248" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="4" col="10" row="382" width="1" height="1" polygon="(10,382);(27,372);(37,381);(26,405);(17,405)"> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="5" col="11" row="486" width="1" height="1" polygon="(11,486);(114,494);(167,494);(207,494);(218,488);(218,481);(105,476);(26,476)"> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="6" col="12" row="542" width="1" height="1" polygon="(12,542);(151,543);(152,557);(17,557)"> </DL_ZONE>
+		</DL_PAGE>
+		<DL_PAGE gedi_type="DL_PAGE" src="aaj65f00.tif" pageID="2" width="1575" height="1200">
+			<DL_ZONE gedi_type="TABLE" id="7" col="33" row="153" width="1399" height="878" contents=""> </DL_ZONE>
+		</DL_PAGE>
+		<DL_PAGE gedi_type="DL_PAGE" src="aaj65f00.tif" pageID="3" width="1575" height="1200">
+			<DL_ZONE gedi_type="TABLE" id="8" col="56" row="169" width="1381" height="415" orientation="-0.015297083819973013" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="9" col="1427" row="681" width="552" height="70" orientation="3.1216677545156504" contents=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

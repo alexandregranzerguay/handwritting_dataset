@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/media/projects/GEDI/" GEDI_version="2.1.14" GEDI_date="12/19/2008">
+	<USER name="Mudit" date="11/23/2009 23:27" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Wontaek" date="Mon Dec 17 04:12:14 EST 2007" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="mudit" date="3/20/2010 21:38" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="A03EBIN.TIF" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="A03EBIN.TIF" pageID="1" width="2592" height="3300">
+			<DL_ZONE gedi_type="text_sm" id="000" col="761" row="906" width="1112" height="155" zoneType="title" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="001" col="617" row="1115" width="362" height="45" zoneType="author" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="002" col="625" row="1175" width="1431" height="87" zoneType="affiliation" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="003" col="624" row="1316" width="434" height="34" zoneType="author" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="004" col="624" row="1379" width="1050" height="37" zoneType="affiliation" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="005" col="621" row="1524" width="158" height="22" zoneType="abstract-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="009" col="615" row="1520" width="1442" height="537" zoneType="abstract-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00A" col="615" row="2149" width="240" height="34" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00B" col="612" row="2225" width="1440" height="795" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sym" id="00E" col="608" row="3104" width="546" height="28" zoneType="page-footer" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00F" col="2038" row="3109" width="6" height="27" zoneType="page-number" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="seal" id="00G" col="1423" row="3032" width="276" height="251" zoneType="non-text" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="10" polygon="(210,535);(528,589);(514,2527);(616,908);(718,908);(711,596);(2344,643);(2324,3279);(2574,3279);(2561,47);(47,20);(40,562)"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="11" col="40" row="725" width="264" height="115"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="12" col="27" row="894" width="433" height="535"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

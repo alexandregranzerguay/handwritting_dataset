@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="B01061" date="October 22, 2007 9:13 AM" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Mudit" date="11/29/2009 3:31" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="aab51a00.tif" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="aab51a00.tif" pageID="1" width="1200" height="1575">
+			<DL_ZONE gedi_type="MACHINEPRINT" id="1" col="212" row="112" width="206" height="136" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="2" col="622" row="328" width="242" height="28" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="3" col="208" row="438" width="778" height="50" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="4" col="210" row="504" width="790" height="72" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="5" col="212" row="594" width="798" height="96" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="6" col="208" row="702" width="796" height="118" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="7" col="208" row="834" width="780" height="120" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="8" col="206" row="972" width="794" height="50" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="9" col="212" row="1040" width="186" height="24" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="10" col="204" row="1322" width="300" height="70" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="11" col="624" row="1172" width="396" height="72" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="SIGNATURE" id="12" col="594" row="1098" width="346" height="74" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="Image" id="13" col="66" row="112" width="140" height="134" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="14" polygon="(12,1484);(1157,1484);(1148,1419);(38,1419);(19,3);(0,0);(1,608);(2,1473)"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

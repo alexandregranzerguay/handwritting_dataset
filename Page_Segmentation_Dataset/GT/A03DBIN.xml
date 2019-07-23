@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/media/projects/GEDI/" GEDI_version="2.1.14" GEDI_date="12/19/2008">
+	<USER name="Mudit" date="11/23/2009 23:24" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Wontaek" date="Mon Dec 17 04:12:14 EST 2007" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="mudit" date="3/20/2010 21:37" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="A03DBIN.TIF" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="A03DBIN.TIF" pageID="1" width="2592" height="3300">
+			<DL_ZONE gedi_type="text_sm" id="000" col="528" row="1035" width="26" height="19" zoneType="page-number" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="001" col="676" row="1036" width="1142" height="24" zoneType="page-header" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="002" col="526" row="1136" width="1447" height="375" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="004" col="861" row="1570" width="773" height="29" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="005" col="526" row="1632" width="1447" height="373" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="007" col="1028" row="2082" width="447" height="29" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="10" col="2315" row="1313" width="206" height="130"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="11" col="2129" row="1558" width="392" height="341"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="12" col="2135" row="2008" width="418" height="731"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="13" col="2147" row="2842" width="391" height="171"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="14" col="2161" row="3072" width="398" height="82" zoneType="" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="15" col="2161" row="3172" width="380" height="47"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="16" col="518" row="2135" width="1479" height="1084"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="17" polygon="(372,2906);(325,975);(2541,914);(2534,6);(13,0);(27,3266);(352,3279)"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

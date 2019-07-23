@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="Mudit" date="11/23/2009 23:45" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Wontaek" date="Mon Dec 17 04:12:15 EST 2007" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="A05KBIN.TIF" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="A05KBIN.TIF" pageID="1" width="2592" height="3300">
+			<DL_ZONE gedi_type="text_sm" id="000" col="989" row="678" width="508" height="26" zoneType="page-header" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="001" col="2015" row="685" width="24" height="22" zoneType="page-number" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="002" col="445" row="777" width="1590" height="139" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="math" id="003" col="1109" row="971" width="923" height="51" zoneType="non-text" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="004" col="445" row="1076" width="401" height="30" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="005" col="1071" row="1221" width="335" height="26" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="006" col="444" row="1271" width="1593" height="524" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="008" col="448" row="1868" width="308" height="31" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sym" id="009" col="442" row="1917" width="1595" height="739" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00B" col="442" row="2715" width="325" height="39" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00C" col="441" row="2766" width="1598" height="393" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="10" polygon="(508,603);(2398,555);(2351,3245);(2561,3272);(2561,40);(47,40);(47,535)"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

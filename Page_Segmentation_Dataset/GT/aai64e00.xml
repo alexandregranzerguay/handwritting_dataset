@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="B01061" date="October 22, 2007 1:16 PM">	</USER>
+	<USER name="B1068" date="October 30, 2007 2:40 PM">	</USER>
+	<DL_DOCUMENT src="aai64e00.tif" docTag="xml" NrOfPages="2">
+		<DL_PAGE gedi_type="DL_PAGE" src="aai64e00.tif" pageID="1" width="2560" height="3296">
+			<DL_ZONE gedi_type="MACHINEPRINT" id="1" col="2276" row="3136" width="493" height="96" orientation="1.4977557614917774" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="2" col="736" row="140" width="1136" height="152" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="3" col="1368" row="364" width="996" height="488" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="4" col="324" row="708" width="564" height="80" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="5" col="316" row="896" width="172" height="76" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="6" col="856" row="904" width="1548" height="112" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="7" col="512" row="1120" width="360" height="88" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="8" col="512" row="1224" width="1848" height="344" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="9" col="520" row="1600" width="1904" height="272" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="10" col="516" row="1880" width="1772" height="104" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="11" col="568" row="1992" width="1672" height="252" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="12" col="576" row="2252" width="548" height="72" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="13" col="500" row="2452" width="1860" height="176" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="14" col="476" row="3164" width="1644" height="84" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="HANDPRINT" id="15" col="588" row="2864" width="1112" height="180" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="16" col="716" row="2356" width="1" height="1" polygon="(848,2356);(1192,2324);(1732,2316);(2052,2380);(2300,2488);(2332,2616);(2212,2752);(1676,2828);(900,2780);(788,2772);(716,2832);(432,2888);(484,2740);(324,2644);(340,2436);(512,2368);(836,2344)" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="17" col="524" row="2372" width="140" height="40" contents=""> </DL_ZONE>
+		</DL_PAGE>
+		<DL_PAGE gedi_type="DL_PAGE" src="aai64e00.tif" pageID="2" width="2560" height="3296">
+			<DL_ZONE gedi_type="MACHINEPRINT" id="18" col="516" row="2772" width="584" height="184" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="19" col="1420" row="2648" width="292" height="40" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="20" col="1348" row="2412" width="484" height="80" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="21" col="528" row="2180" width="1892" height="208" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="22" col="528" row="1864" width="1776" height="308" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="23" col="540" row="1700" width="1728" height="144" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="24" col="536" row="1372" width="1664" height="312" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="25" col="532" row="744" width="1864" height="600" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="26" col="528" row="448" width="1852" height="252" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="STAMP" id="27" col="1092" row="260" width="448" height="128" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="28" col="1772" row="176" width="552" height="76" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="29" col="300" row="160" width="1196" height="88" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="30" col="2112" row="3056" width="484" height="97" orientation="1.546008016757597" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="SIGNATURE" id="31" col="1408" row="2412" width="296" height="328"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

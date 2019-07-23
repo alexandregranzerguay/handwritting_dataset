@@ -1,0 +1,2411 @@
+Result of Performance Evaluation ToolS for Zone Segmentation and Classification(PETS)
+Generated from Sun Nov 22 02:08:12 2009
+
+Command Option : PETS.exe -r \\clampfs00.umiacs.umd.edu\Lamp\Users\mudit\Lamp\ZoneSeg\data\uWashN5kSelected\11-20-09\seg\ -g \\clampfs00.umiacs.umd.edu\Lamp\Users\mudit\Lamp\ZoneSeg\data\uWashN5kSelected\GT\ -i \\clampfs00.umiacs.umd.edu\Lamp\Users\mudit\Lamp\ZoneSeg\data\uWashN5kSelected\images\ -v \\clampfs00.umiacs.umd.edu\Lamp\Users\mudit\Lamp\ZoneSeg\data\uWashN5kSelected\11-20-09\eval\ -detail -segonly -m ..\data\mlist.txt 
+
+==========================
+Result of Individual File
+==========================
+
+[O] : Matched, [-] : Detected, [X] : False Alarm
+
+A003BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     9,     zone,   000,     zone, 81.13%
+[O]    16,     zone,   001,     zone, 97.75%
+[O]     3,     zone,   002,     zone, 99.76%
+[O]    17,     zone,   003,     zone, 98.48%
+[O]     4,     zone,   004,     zone, 99.95%
+[O]    19,     zone,   005,     zone, 97.18%
+[O]    M0,     zone,   006,     zone, 99.95%
+       M0 : 5, 14, 18, 20, 22, 24, 25, 38, 41, 42, 43, 46
+[X]     1,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]    11,     zone
+[X]    13,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    29,     zone
+[X]    36,     zone
+[X]    37,     zone
+[X]    39,     zone
+[X]    50,     zone
+[X]    51,     zone
+[X]    52,     zone
+[X]    53,     zone
+[X]    58,     zone
+[X]    59,     zone
+[OVERALL] 7/0/17/24, 29.17%
+
+A004BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    31,     zone,   000,     zone, 99.23%
+[O]    52,     zone,   001,     zone, 96.93%
+[O]    15,     zone,   002,     zone, 99.83%
+[O]    14,     zone,   003,     zone, 99.97%
+[O]    16,     zone,   004,     zone, 99.97%
+[O]    17,     zone,   005,     zone, 99.96%
+[O]    18,     zone,   006,     zone, 99.99%
+[X]    M0,     zone
+       M0 : 47, 48
+[O]    M1,     zone,   00A,     zone, 92.36%
+       M1 : 20, 26, 27
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    19,     zone
+[X]    29,     zone
+[X]    30,     zone
+[X]    33,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    36,     zone
+[X]    38,     zone
+[X]    40,     zone
+[X]    41,     zone
+[X]    44,     zone
+[X]    45,     zone
+[X]    50,     zone
+[X]    51,     zone
+[X]    60,     zone
+[X]    61,     zone
+[X]    62,     zone
+[X]    63,     zone
+[X]    74,     zone
+[X]    75,     zone
+[X]    76,     zone
+[X]    77,     zone
+[X]    78,     zone
+[X]    79,     zone
+[X]    80,     zone
+[X]    81,     zone
+[OVERALL] 8/0/34/42, 19.05%
+
+A005BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     1,     zone,   000,     zone, 85.36%
+[O]     3,     zone,   001,     zone, 99.97%
+[O]     6,     zone,   005,     zone, 99.98%
+[O]     7,     zone,   007,     zone, 87.89%
+[O]     9,     zone,   008,     zone, 99.88%
+[O]    11,     zone,   009,     zone, 82.79%
+[O]    18,     zone,   00D,     zone, 99.74%
+[O]    37,     zone,   00F,     zone, 99.12%
+[X]     4,     zone
+[X]     5,     zone
+[X]     8,     zone
+[X]    10,     zone
+[X]    29,     zone
+[X]    36,     zone
+[X]    42,     zone
+[X]    43,     zone
+[X]    45,     zone
+[X]    48,     zone
+[X]    51,     zone
+[OVERALL] 8/0/11/19, 42.11%
+
+A006BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    32,     zone,   000,     zone, 99.81%
+[O]    12,     zone,   001,     zone, 99.89%
+[O]    16,     zone,   009,     zone, 99.64%
+[O]    26,     zone,   00A,     zone, 99.96%
+[O]    27,     zone,   00B,     zone, 98.31%
+[O]    17,     zone,   00F,     zone, 99.54%
+[X]     1,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    24,     zone
+[X]    31,     zone
+[X]    34,     zone
+[OVERALL] 6/0/13/19, 31.58%
+
+A007BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    24,     zone,   000,     zone, 97.43%
+[X]    M0,     zone
+       M0 : 22, 23
+[O]    18,     zone,   005,     zone, 99.65%
+[O]    28,     zone,   008,     zone, 99.86%
+[O]    31,     zone,   009,     zone, 95.17%
+[O]    26,     zone,   00A,     zone, 85.94%
+[O]    29,     zone,   00C,     zone, 99.43%
+[O]    M1,     zone,   00D,     zone, 99.95%
+       M1 : 27, 34
+[O]    M2,     zone,   00E,     zone, 97.89%
+       M2 : 25, 39
+[X]     1,     zone
+[X]     2,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    15,     zone
+[X]    17,     zone
+[X]    19,     zone
+[X]    21,     zone
+[X]    36,     zone
+[X]    43,     zone
+[X]    44,     zone
+[X]    49,     zone
+[X]    51,     zone
+[X]    52,     zone
+[OVERALL] 8/0/18/26, 30.77%
+
+A008BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    14,     zone,   001,     zone, 93.96%
+[X]    15,     zone
+[X]    10,     zone
+[X]     1,     zone
+[X]     2,     zone
+[X]    17,     zone
+[X]    20,     zone
+[X]    22,     zone
+[OVERALL] 1/0/7/8, 12.50%
+
+A009BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    16,     zone,   001,     zone, 98.65%
+[O]    22,     zone,   002,     zone, 99.39%
+[O]     5,     zone,   007,     zone, 99.76%
+[X]     1,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]    12,     zone
+[X]    14,     zone
+[X]    20,     zone
+[X]    29,     zone
+[X]    30,     zone
+[OVERALL] 3/0/8/11, 27.27%
+
+A00ABIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    13,     zone,   001,     zone, 92.77%
+[O]    22,     zone,   002,     zone, 99.42%
+[X]    25,     zone
+[O]    12,     zone,   006,     zone, 99.65%
+[O]     6,     zone,   007,     zone, 86.54%
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]    15,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    20,     zone
+[X]    21,     zone
+[X]    28,     zone
+[X]    29,     zone
+[X]    30,     zone
+[X]    31,     zone
+[OVERALL] 4/0/15/19, 21.05%
+
+A00BBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    12,     zone,   008,     zone, 98.97%
+[O]    11,     zone,   009,     zone, 99.98%
+[O]     9,     zone,   00A,     zone, 99.97%
+[O]    14,     zone,   00E,     zone, 87.14%
+[O]     6,     zone,   00G,     zone, 89.97%
+[X]     1,     zone
+[X]     2,     zone
+[X]     5,     zone
+[X]     8,     zone
+[X]    10,     zone
+[X]    13,     zone
+[X]    16,     zone
+[X]    18,     zone
+[X]    21,     zone
+[X]    22,     zone
+[X]    23,     zone
+[X]    24,     zone
+[OVERALL] 5/0/12/17, 29.41%
+
+A00CBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     1,     zone,   000,     zone, 95.96%
+[O]     8,     zone,   004,     zone, 96.55%
+[O]     4,     zone,   005,     zone, 97.25%
+[O]     9,     zone,   00A,     zone, 97.03%
+[O]    15,     zone,   00B,     zone, 99.90%
+[O]    18,     zone,   00C,     zone, 81.70%
+[O]    30,     zone,   00H,     zone, 97.85%
+[O]    20,     zone,   00I,     zone, 99.84%
+[X]    16,     zone
+[O]    28,     zone,   00O,     zone, 97.89%
+[O]    M0,     zone,   00P,     zone, 97.94%
+       M0 : 21, 22, 31
+[O]    19,     zone,   00Q,     zone, 98.49%
+[O]    17,     zone,   00R,     zone, 91.48%
+[O]    25,     zone,   00T,     zone, 95.68%
+[O]    29,     zone,   00V,     zone, 97.61%
+[O]    32,     zone,   00X,     zone, 92.67%
+[X]     3,     zone
+[X]     5,     zone
+[X]    10,     zone
+[X]    14,     zone
+[X]    23,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    36,     zone
+[X]    38,     zone
+[X]    45,     zone
+[OVERALL] 15/0/11/26, 57.69%
+
+A00DBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     3,     zone,   001,     zone, 99.75%
+[O]     6,     zone,   002,     zone, 99.81%
+[O]     5,     zone,   003,     zone, 99.85%
+[O]     4,     zone,   004,     zone, 99.58%
+[X]     1,     zone
+[X]     2,     zone
+[X]     8,     zone
+[X]     9,     zone
+[OVERALL] 4/0/4/8, 50.00%
+
+A00EBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    18,     zone,   001,     zone, 99.73%
+[O]    19,     zone,   004,     zone, 90.92%
+[X]     1,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    14,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    21,     zone
+[X]    22,     zone
+[X]    24,     zone
+[X]    25,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    28,     zone
+[X]    29,     zone
+[X]    31,     zone
+[X]    32,     zone
+[X]    35,     zone
+[X]    36,     zone
+[X]    37,     zone
+[X]    38,     zone
+[X]    39,     zone
+[X]    40,     zone
+[X]    45,     zone
+[X]    46,     zone
+[X]    49,     zone
+[X]    50,     zone
+[X]    53,     zone
+[OVERALL] 2/0/30/32, 6.25%
+
+A00KBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    25,     zone,   000,     zone, 99.78%
+[O]    28,     zone,   001,     zone, 99.87%
+[O]    35,     zone,   002,     zone, 99.91%
+[O]    31,     zone,   003,     zone, 91.62%
+[O]    38,     zone,   004,     zone, 99.96%
+[O]    29,     zone,   005,     zone, 99.87%
+[O]    36,     zone,   006,     zone, 99.67%
+[O]    32,     zone,   007,     zone, 91.52%
+[O]    37,     zone,   008,     zone, 99.97%
+[O]    33,     zone,   00A,     zone, 95.09%
+[O]    42,     zone,   00B,     zone, 99.17%
+[X]     1,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     8,     zone
+[X]    13,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    20,     zone
+[X]    21,     zone
+[X]    22,     zone
+[X]    23,     zone
+[X]    24,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    30,     zone
+[X]    49,     zone
+[X]    50,     zone
+[X]    60,     zone
+[X]    61,     zone
+[OVERALL] 11/0/22/33, 33.33%
+
+A00LBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    48,     zone,   000,     zone, 99.64%
+[O]    M0,     zone,   001,     zone, 99.96%
+       M0 : 21, 40
+[O]    20,     zone,   002,     zone, 99.98%
+[O]    M1,     zone,   003,     zone, 99.95%
+       M1 : 12, 13, 15, 25, 33, 34, 38, 39, 41, 42, 43, 44, 46, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60
+[X]    45,     zone
+[O]    18,     zone,   00F,     zone, 99.19%
+[O]    62,     zone,   00G,     zone, 94.17%
+[X]     1,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    16,     zone
+[X]    19,     zone
+[X]    61,     zone
+[X]    64,     zone
+[X]    68,     zone
+[OVERALL] 6/0/10/16, 37.50%
+
+A00OBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     4,     zone,   00B,     zone, 97.98%
+[O]     8,     zone,   00C,     zone, 99.62%
+[X]     1,     zone
+[X]     2,     zone
+[X]     7,     zone
+[X]    10,     zone
+[OVERALL] 2/0/4/6, 33.33%
+
+A00PBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     2,     zone,   000,     zone, 99.86%
+[O]     9,     zone,   001,     zone, 99.81%
+[X]     4,     zone
+[O]     5,     zone,   004,     zone, 96.97%
+[O]     6,     zone,   005,     zone, 99.91%
+[O]     7,     zone,   006,     zone, 99.26%
+[O]    15,     zone,   00A,     zone, 99.13%
+[O]    14,     zone,   00B,     zone, 99.95%
+[O]    16,     zone,   00C,     zone, 96.98%
+[X]    12,     zone
+[O]     8,     zone,   00F,     zone, 96.12%
+[O]    20,     zone,   00G,     zone, 99.63%
+[X]     1,     zone
+[X]    13,     zone
+[X]    17,     zone
+[X]    21,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    28,     zone
+[X]    29,     zone
+[X]    31,     zone
+[OVERALL] 10/0/11/21, 47.62%
+
+A030BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    22,     zone,   000,     zone, 99.74%
+[O]    80,     zone,   001,     zone, 98.08%
+[X]    M0,     zone
+       M0 : 28, 34, 35
+[X]    M1,     zone
+       M1 : 33, 61, 62, 73, 74
+[O]    23,     zone,   007,     zone, 80.79%
+[O]    M2,     zone,   008,     zone, 100.00%
+       M2 : 26, 27, 36, 37, 47, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 63, 66
+[O]    25,     zone,   009,     zone, 99.81%
+[O]    24,     zone,   00B,     zone, 81.93%
+[O]    29,     zone,   00C,     zone, 99.43%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]    10,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    19,     zone
+[X]    40,     zone
+[X]    45,     zone
+[X]    81,     zone
+[X]    82,     zone
+[X]    83,     zone
+[X]    84,     zone
+[OVERALL] 7/0/20/27, 25.93%
+
+A031BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    24,     zone,   000,     zone, 99.75%
+[O]    60,     zone,   001,     zone, 97.64%
+[O]    M0,     zone,   002,     zone, 99.99%
+       M0 : 30, 33, 41, 45, 48, 52, 53, 54, 55, 57, 59
+[O]    42,     zone,   008,     zone, 99.42%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]    10,     zone
+[X]    13,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    21,     zone
+[X]    23,     zone
+[X]    25,     zone
+[X]    50,     zone
+[OVERALL] 4/0/17/21, 19.05%
+
+A039BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    M0,     zone,   001,     zone, 98.80%
+       M0 : 15, 23, 34, 35
+[O]    M1,     zone,   002,     zone, 99.69%
+       M1 : 16, 24, 28, 30
+[O]    25,     zone,   003,     zone, 97.21%
+[O]    20,     zone,   008,     zone, 96.71%
+[O]    13,     zone,   009,     zone, 84.36%
+[X]    31,     zone
+[O]    12,     zone,   00B,     zone, 99.88%
+[O]    10,     zone,   00C,     zone, 99.81%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    14,     zone
+[X]    17,     zone
+[X]    38,     zone
+[X]    39,     zone
+[OVERALL] 7/0/13/20, 35.00%
+
+A03ABIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    M0,     zone,   000,     zone, 98.54%
+       M0 : 21, 27, 33
+[X]    M1,     zone
+       M1 : 24, 25
+[O]    16,     zone,   005,     zone, 96.29%
+[O]    M2,     zone,   008,     zone, 95.92%
+       M2 : 23, 29
+[O]    18,     zone,   00A,     zone, 99.17%
+[X]     1,     zone
+[X]     2,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    15,     zone
+[X]    17,     zone
+[OVERALL] 4/0/13/17, 23.53%
+
+A03CBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    M0,     zone,   000,     zone, 95.92%
+       M0 : 23, 28, 34
+[O]    21,     zone,   002,     zone, 99.25%
+[O]    22,     zone,   003,     zone, 95.50%
+[O]    19,     zone,   007,     zone, 94.66%
+[O]    26,     zone,   00B,     zone, 85.96%
+[X]     1,     zone
+[X]     2,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    11,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    20,     zone
+[OVERALL] 5/0/11/16, 31.25%
+
+A03DBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    M0,     zone,   001,     zone, 92.80%
+       M0 : 21, 27, 33
+[O]    M1,     zone,   004,     zone, 84.51%
+       M1 : 22, 28
+[O]     9,     zone,   005,     zone, 85.02%
+[O]    24,     zone,   007,     zone, 99.28%
+[X]     1,     zone
+[X]     2,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]    10,     zone
+[X]    17,     zone
+[X]    36,     zone
+[X]    37,     zone
+[X]    38,     zone
+[X]    39,     zone
+[X]    40,     zone
+[X]    41,     zone
+[OVERALL] 4/0/12/16, 25.00%
+
+A03EBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    M0,     zone,   000,     zone, 99.86%
+       M0 : 34, 41
+[O]    29,     zone,   002,     zone, 90.66%
+[O]    28,     zone,   003,     zone, 98.92%
+[O]    27,     zone,   004,     zone, 99.27%
+[O]    25,     zone,   00A,     zone, 98.11%
+[O]    15,     zone,   00E,     zone, 99.10%
+[O]    43,     zone,   00G,     zone, 99.81%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    20,     zone
+[X]    21,     zone
+[X]    22,     zone
+[X]    23,     zone
+[X]    26,     zone
+[X]    30,     zone
+[X]    31,     zone
+[X]    36,     zone
+[X]    50,     zone
+[X]    51,     zone
+[X]    52,     zone
+[OVERALL] 7/0/26/33, 21.21%
+
+A03KBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    17,     zone,   000,     zone, 99.64%
+[O]    M0,     zone,   001,     zone, 93.81%
+       M0 : 23, 42
+[O]    24,     zone,   003,     zone, 96.10%
+[O]    33,     zone,   005,     zone, 97.52%
+[O]    25,     zone,   006,     zone, 99.84%
+[O]    27,     zone,   007,     zone, 99.82%
+[O]    12,     zone,   008,     zone, 99.94%
+[O]    32,     zone,   009,     zone, 98.06%
+[O]    18,     zone,   00A,     zone, 99.55%
+[O]    19,     zone,   00D,     zone, 83.46%
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    11,     zone
+[X]    16,     zone
+[X]    28,     zone
+[X]    43,     zone
+[X]    48,     zone
+[X]    49,     zone
+[X]    51,     zone
+[X]    52,     zone
+[X]    55,     zone
+[OVERALL] 10/0/16/26, 38.46%
+
+A03LBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    14,     zone,   000,     zone, 95.78%
+[X]    M0,     zone
+       M0 : 15, 16
+[X]    17,     zone
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    11,     zone
+[OVERALL] 1/0/10/11, 9.09%
+
+A03NBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    26,     zone,   000,     zone, 94.45%
+[O]    M0,     zone,   002,     zone, 98.83%
+       M0 : 12, 15, 31
+[O]    13,     zone,   003,     zone, 99.90%
+[O]    16,     zone,   004,     zone, 99.93%
+[O]    M1,     zone,   005,     zone, 99.97%
+       M1 : 22, 33, 34
+[O]    24,     zone,   006,     zone, 93.37%
+[O]    23,     zone,   007,     zone, 97.94%
+[O]    27,     zone,   008,     zone, 97.90%
+[O]    20,     zone,   009,     zone, 99.99%
+[O]    28,     zone,   00A,     zone, 96.51%
+[O]    19,     zone,   00B,     zone, 99.92%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    18,     zone
+[X]    21,     zone
+[OVERALL] 11/0/13/24, 45.83%
+
+A040BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    16,     zone,   000,     zone, 99.61%
+[O]     3,     zone,   001,     zone, 97.21%
+[X]    M0,     zone
+       M0 : 21, 27
+[O]     4,     zone,   003,     zone, 98.49%
+[O]    19,     zone,   004,     zone, 99.86%
+[O]    25,     zone,   005,     zone, 96.39%
+[O]    15,     zone,   006,     zone, 83.25%
+[O]    23,     zone,   008,     zone, 98.70%
+[X]    10,     zone
+[X]     1,     zone
+[X]     2,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    22,     zone
+[X]    29,     zone
+[X]    30,     zone
+[X]    33,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    36,     zone
+[OVERALL] 7/0/16/23, 30.43%
+
+A042BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    12,     zone,   000,     zone, 99.59%
+[O]    14,     zone,   001,     zone, 98.01%
+[O]    M0,     zone,   002,     zone, 84.09%
+       M0 : 19, 26
+[O]    13,     zone,   003,     zone, 99.94%
+[O]    25,     zone,   005,     zone, 81.90%
+[O]    16,     zone,   006,     zone, 98.89%
+[O]    15,     zone,   007,     zone, 99.82%
+[O]    24,     zone,   008,     zone, 95.27%
+[O]     5,     zone,   009,     zone, 99.96%
+[O]    22,     zone,   00A,     zone, 98.53%
+[O]    10,     zone,   00B,     zone, 99.78%
+[O]    11,     zone,   00E,     zone, 83.03%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     6,     zone
+[X]     8,     zone
+[X]    20,     zone
+[X]    31,     zone
+[X]    32,     zone
+[OVERALL] 12/0/8/20, 60.00%
+
+A044BIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    18,     zone,   000,     zone, 99.68%
+[X]    10,     zone
+[O]    17,     zone,   004,     zone, 98.51%
+[O]    M0,     zone,   007,     zone, 99.92%
+       M0 : 11, 12, 15, 19, 21, 22, 23, 24, 25, 27, 29, 30, 33, 34, 35, 36, 37, 39, 40, 41, 44, 45, 46, 47, 48, 49, 51, 53, 54, 55, 56, 58
+[O]    M1,     zone,   008,     zone, 99.82%
+       M1 : 13, 16
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]    38,     zone
+[X]    59,     zone
+[X]    66,     zone
+[X]    69,     zone
+[OVERALL] 4/0/10/14, 28.57%
+
+A04BBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    13,     zone,   000,     zone, 99.29%
+[O]    39,     zone,   001,     zone, 98.50%
+[O]    16,     zone,   002,     zone, 99.78%
+[O]    17,     zone,   003,     zone, 99.87%
+[O]    23,     zone,   004,     zone, 99.93%
+[O]     6,     zone,   005,     zone, 99.91%
+[O]    19,     zone,   007,     zone, 87.87%
+[O]    34,     zone,   00A,     zone, 84.64%
+[O]    20,     zone,   00C,     zone, 99.63%
+[X]     1,     zone
+[X]     2,     zone
+[X]     4,     zone
+[X]     7,     zone
+[X]     9,     zone
+[X]    28,     zone
+[X]    31,     zone
+[X]    32,     zone
+[X]    35,     zone
+[X]    44,     zone
+[X]    45,     zone
+[X]    46,     zone
+[X]    48,     zone
+[X]    49,     zone
+[OVERALL] 9/0/14/23, 39.13%
+
+A04CBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    15,     zone,   000,     zone, 99.59%
+[O]    M0,     zone,   001,     zone, 99.66%
+       M0 : 19, 27, 28, 29, 30, 32, 33, 39, 40
+[O]    16,     zone,   002,     zone, 99.93%
+[O]    17,     zone,   003,     zone, 99.29%
+[X]    51,     zone
+[X]    52,     zone
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]    14,     zone
+[X]    34,     zone
+[X]    37,     zone
+[X]    41,     zone
+[X]    42,     zone
+[X]    43,     zone
+[X]    44,     zone
+[X]    45,     zone
+[X]    46,     zone
+[X]    48,     zone
+[X]    49,     zone
+[X]    53,     zone
+[X]    54,     zone
+[X]    59,     zone
+[X]    60,     zone
+[X]    61,     zone
+[X]    62,     zone
+[X]    63,     zone
+[X]    66,     zone
+[X]    67,     zone
+[X]    72,     zone
+[X]    77,     zone
+[OVERALL] 4/0/27/31, 12.90%
+
+A04NBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    44,     zone,   000,     zone, 99.45%
+[O]    M0,     zone,   002,     zone, 88.23%
+       M0 : 31, 37, 38, 39, 40
+[X]    M1,     zone
+       M1 : 33, 34
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    20,     zone
+[X]    21,     zone
+[X]    22,     zone
+[X]    23,     zone
+[X]    25,     zone
+[X]    26,     zone
+[X]    29,     zone
+[X]    30,     zone
+[X]    35,     zone
+[X]    41,     zone
+[X]    42,     zone
+[X]    47,     zone
+[X]    49,     zone
+[X]    56,     zone
+[X]    57,     zone
+[X]    58,     zone
+[X]    59,     zone
+[X]    60,     zone
+[X]    61,     zone
+[X]    62,     zone
+[X]    63,     zone
+[OVERALL] 2/0/38/40, 5.00%
+
+A05CBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    13,     zone,   000,     zone, 95.53%
+[O]    25,     zone,   002,     zone, 99.14%
+[X]    29,     zone
+[O]    21,     zone,   004,     zone, 88.04%
+[O]    22,     zone,   005,     zone, 99.55%
+[O]    M0,     zone,   006,     zone, 99.76%
+       M0 : 11, 37
+[O]    19,     zone,   007,     zone, 99.66%
+[O]    23,     zone,   008,     zone, 99.70%
+[O]    17,     zone,   009,     zone, 99.91%
+[O]    16,     zone,   00A,     zone, 87.01%
+[O]    24,     zone,   00B,     zone, 98.87%
+[O]    15,     zone,   00C,     zone, 99.82%
+[O]     9,     zone,   00D,     zone, 98.29%
+[O]    30,     zone,   00E,     zone, 99.55%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]    14,     zone
+[X]    41,     zone
+[X]    42,     zone
+[X]    43,     zone
+[X]    45,     zone
+[X]    47,     zone
+[OVERALL] 13/0/12/25, 52.00%
+
+A05JBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[X]     1,     zone
+[X]     2,     zone
+[X]     7,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    12,     zone
+[X]    20,     zone
+[X]    22,     zone
+[X]    23,     zone
+[X]    25,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    28,     zone
+[X]    29,     zone
+[X]    32,     zone
+[OVERALL] 0/0/15/15, 0.00%
+
+A05KBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    45,     zone,   000,     zone, 97.91%
+[O]    30,     zone,   002,     zone, 97.42%
+[X]    56,     zone
+[O]    29,     zone,   004,     zone, 98.71%
+[O]    48,     zone,   005,     zone, 99.20%
+[X]    28,     zone
+[O]     7,     zone,   009,     zone, 84.91%
+[O]    24,     zone,   00C,     zone, 98.66%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     8,     zone
+[X]    11,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    19,     zone
+[X]    20,     zone
+[X]    25,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    31,     zone
+[X]    32,     zone
+[X]    33,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    36,     zone
+[X]    40,     zone
+[X]    41,     zone
+[X]    42,     zone
+[X]    47,     zone
+[X]    51,     zone
+[X]    53,     zone
+[X]    54,     zone
+[X]    59,     zone
+[X]    61,     zone
+[X]    62,     zone
+[X]    64,     zone
+[X]    65,     zone
+[X]    67,     zone
+[X]    68,     zone
+[X]    70,     zone
+[X]    71,     zone
+[X]    74,     zone
+[X]    84,     zone
+[X]    85,     zone
+[X]    86,     zone
+[X]    88,     zone
+[X]    89,     zone
+[X]    90,     zone
+[X]    92,     zone
+[X]    93,     zone
+[X]    94,     zone
+[X]    95,     zone
+[OVERALL] 6/0/49/55, 10.91%
+
+A05LBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    44,     zone,   000,     zone, 97.78%
+[O]     4,     zone,   002,     zone, 97.43%
+[O]     6,     zone,   004,     zone, 98.40%
+[O]     7,     zone,   006,     zone, 87.32%
+[O]    68,     zone,   007,     zone, 82.02%
+[O]    10,     zone,   008,     zone, 86.91%
+[O]    62,     zone,   00A,     zone, 83.88%
+[O]     8,     zone,   00B,     zone, 94.79%
+[O]    M0,     zone,   00C,     zone, 99.89%
+       M0 : 13, 15, 24, 29, 30, 31, 32, 35, 36, 37, 39, 40, 41, 42, 50, 51, 54, 55, 60, 61, 79, 80, 82
+[O]    M1,     zone,   00D,     zone, 99.62%
+       M1 : 9, 26
+[X]     1,     zone
+[X]     2,     zone
+[X]    11,     zone
+[X]    18,     zone
+[X]    33,     zone
+[X]    63,     zone
+[X]    64,     zone
+[X]    72,     zone
+[X]    73,     zone
+[X]    93,     zone
+[X]    94,     zone
+[X]    95,     zone
+[X]    96,     zone
+[X]    97,     zone
+[X]   104,     zone
+[X]   105,     zone
+[X]   106,     zone
+[X]   107,     zone
+[X]   108,     zone
+[OVERALL] 10/0/19/29, 34.48%
+
+A05PBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    48,     zone,   001,     zone, 96.28%
+[O]    M0,     zone,   002,     zone, 99.90%
+       M0 : 26, 39, 40, 41, 42, 51, 52, 59, 61, 64, 65, 66, 67, 69, 70, 71
+[O]    44,     zone,   003,     zone, 99.38%
+[O]    21,     zone,   004,     zone, 99.68%
+[O]    M1,     zone,   005,     zone, 99.96%
+       M1 : 22, 23, 29, 30, 32, 35, 36, 43, 49, 50, 54, 55, 56, 63, 68
+[O]    37,     zone,   006,     zone, 96.06%
+[X]     1,     zone
+[X]     2,     zone
+[X]     4,     zone
+[X]     8,     zone
+[X]    72,     zone
+[OVERALL] 6/0/5/11, 54.55%
+
+A05QBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    39,     zone,   001,     zone, 97.05%
+[O]    29,     zone,   002,     zone, 99.62%
+[O]    33,     zone,   006,     zone, 99.84%
+[O]    40,     zone,   007,     zone, 96.96%
+[O]    36,     zone,   008,     zone, 99.87%
+[O]    34,     zone,   00A,     zone, 94.51%
+[X]    32,     zone
+[X]     1,     zone
+[X]     2,     zone
+[X]    11,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    20,     zone
+[X]    24,     zone
+[X]    25,     zone
+[X]    27,     zone
+[X]    31,     zone
+[X]    35,     zone
+[X]    38,     zone
+[X]    45,     zone
+[X]    47,     zone
+[X]    50,     zone
+[OVERALL] 6/0/21/27, 22.22%
+
+A06ABIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]     7,     zone,   000,     zone, 99.12%
+[O]     2,     zone,   001,     zone, 99.95%
+[O]    16,     zone,   002,     zone, 99.87%
+[O]    19,     zone,   003,     zone, 99.91%
+[O]    25,     zone,   004,     zone, 99.41%
+[O]     3,     zone,   005,     zone, 99.94%
+[O]    24,     zone,   006,     zone, 99.13%
+[O]    30,     zone,   007,     zone, 95.97%
+[O]     4,     zone,   008,     zone, 99.71%
+[O]    40,     zone,   009,     zone, 98.93%
+[O]    44,     zone,   00A,     zone, 96.13%
+[O]    41,     zone,   00B,     zone, 98.98%
+[X]     1,     zone
+[X]     6,     zone
+[X]     8,     zone
+[X]    12,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    21,     zone
+[X]    22,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    31,     zone
+[X]    32,     zone
+[X]    33,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    36,     zone
+[X]    37,     zone
+[X]    46,     zone
+[X]    48,     zone
+[X]    49,     zone
+[X]    55,     zone
+[X]    63,     zone
+[X]    64,     zone
+[OVERALL] 12/0/25/37, 32.43%
+
+A06FBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    64,     zone,   000,     zone, 99.68%
+[X]    20,     zone
+[X]    27,     zone
+[O]    M0,     zone,   006,     zone, 99.34%
+       M0 : 25, 42
+[X]    43,     zone
+[O]    M1,     zone,   00B,     zone, 97.28%
+       M1 : 23, 26
+[O]    46,     zone,   00C,     zone, 98.79%
+[X]    69,     zone
+[O]    49,     zone,   00G,     zone, 86.13%
+[O]    51,     zone,   00H,     zone, 97.06%
+[O]    50,     zone,   00I,     zone, 99.39%
+[O]    52,     zone,   00K,     zone, 98.87%
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    11,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    21,     zone
+[X]    29,     zone
+[X]    32,     zone
+[X]    33,     zone
+[X]    34,     zone
+[X]    39,     zone
+[X]    40,     zone
+[X]    44,     zone
+[X]    53,     zone
+[X]    54,     zone
+[X]    55,     zone
+[X]    56,     zone
+[X]    57,     zone
+[X]    59,     zone
+[X]    60,     zone
+[X]    61,     zone
+[X]    62,     zone
+[X]    65,     zone
+[X]    66,     zone
+[X]    68,     zone
+[X]    71,     zone
+[X]    72,     zone
+[X]    73,     zone
+[X]    76,     zone
+[X]    77,     zone
+[X]    78,     zone
+[X]    81,     zone
+[X]    82,     zone
+[X]    84,     zone
+[X]    85,     zone
+[X]    86,     zone
+[X]    90,     zone
+[X]    91,     zone
+[X]    93,     zone
+[X]    94,     zone
+[OVERALL] 8/0/49/57, 14.04%
+
+A06HBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    31,     zone,   000,     zone, 99.89%
+[O]    28,     zone,   002,     zone, 99.39%
+[O]    29,     zone,   004,     zone, 84.72%
+[O]    33,     zone,   007,     zone, 88.93%
+[O]    35,     zone,   008,     zone, 99.53%
+[O]    30,     zone,   00B,     zone, 92.94%
+[X]    27,     zone
+[O]    25,     zone,   00F,     zone, 99.89%
+[O]    38,     zone,   00I,     zone, 98.82%
+[X]     1,     zone
+[X]     2,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    20,     zone
+[X]    23,     zone
+[X]    36,     zone
+[X]    37,     zone
+[OVERALL] 8/0/20/28, 28.57%
+
+A06IBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    28,     zone,   001,     zone, 96.92%
+[X]    26,     zone
+[X]     1,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]    11,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    23,     zone
+[X]    29,     zone
+[X]    30,     zone
+[X]    31,     zone
+[X]    32,     zone
+[X]    33,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    36,     zone
+[X]    37,     zone
+[X]    38,     zone
+[X]    40,     zone
+[X]    41,     zone
+[X]    42,     zone
+[X]    51,     zone
+[OVERALL] 1/0/28/29, 3.45%
+
+A06LBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    21,     zone,   000,     zone, 99.77%
+[O]    22,     zone,   002,     zone, 99.38%
+[O]    19,     zone,   003,     zone, 99.94%
+[X]    M0,     zone
+       M0 : 23, 24, 37, 38, 39
+[O]    M1,     zone,   005,     zone, 92.21%
+       M1 : 25, 34
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    15,     zone
+[X]    16,     zone
+[X]    17,     zone
+[X]    18,     zone
+[X]    20,     zone
+[X]    29,     zone
+[X]    32,     zone
+[X]    36,     zone
+[X]    40,     zone
+[X]    45,     zone
+[OVERALL] 4/0/24/28, 14.29%
+
+A06NBIN.TIF
+===========
+
+Page ID : 1
+-------------
+[O]    27,     zone,   000,     zone, 96.70%
+[O]    31,     zone,   002,     zone, 99.54%
+[O]    29,     zone,   003,     zone, 99.08%
+[O]    30,     zone,   004,     zone, 99.79%
+[X]    M0,     zone
+       M0 : 16, 17, 18, 19, 32, 33, 38, 39
+[X]    M1,     zone
+       M1 : 25, 26, 36, 37
+[X]    M2,     zone
+       M2 : 20, 21, 41, 42
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    22,     zone
+[X]    23,     zone
+[X]    24,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    46,     zone
+[X]    47,     zone
+[X]    48,     zone
+[X]    50,     zone
+[X]    51,     zone
+[X]    52,     zone
+[OVERALL] 4/0/26/30, 13.33%
+
+aaa55c00.tif
+============
+
+Page ID : 1
+-------------
+[O]    17,     zone,     1,     zone, 97.42%
+[O]     1,     zone,     2,     zone, 99.73%
+[O]    20,     zone,     3,     zone, 100.00%
+[O]     2,     zone,     4,     zone, 100.00%
+[O]    M0,     zone,     5,     zone, 99.96%
+       M0 : 4, 16, 19, 21
+[X]    11,     zone
+[X]    12,     zone
+[X]    23,     zone
+[X]    27,     zone
+[OVERALL] 5/0/4/9, 55.56%
+
+aab12f00.tif
+============
+
+Page ID : 1
+-------------
+[X]    M0,     zone
+       M0 : 1, 31, 38, 50
+[O]     3,     zone,     2,     zone, 81.26%
+[O]    M1,     zone,     4,     zone, 97.50%
+       M1 : 29, 46, 52
+[O]    M2,     zone,     5,     zone, 95.78%
+       M2 : 20, 41
+[O]    M3,     zone,     6,     zone, 91.55%
+       M3 : 5, 47
+[O]     6,     zone,     7,     zone, 100.00%
+[O]     7,     zone,     8,     zone, 99.94%
+[O]     8,     zone,     9,     zone, 99.97%
+[O]     9,     zone,    10,     zone, 92.50%
+[O]    10,     zone,    11,     zone, 92.65%
+[O]    11,     zone,    12,     zone, 92.94%
+[O]    12,     zone,    13,     zone, 99.96%
+[O]    13,     zone,    14,     zone, 100.00%
+[O]    M4,     zone,    15,     zone, 93.42%
+       M4 : 57, 58
+[O]    53,     zone,    19,     zone, 98.36%
+[O]    51,     zone,    20,     zone, 99.87%
+[X]     2,     zone
+[X]     4,     zone
+[X]    14,     zone
+[X]    32,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    42,     zone
+[OVERALL] 15/0/8/23, 65.22%
+
+aab51a00.tif
+============
+
+Page ID : 1
+-------------
+[O]     5,     zone,     1,     zone, 99.60%
+[O]     7,     zone,     2,     zone, 83.90%
+[O]     4,     zone,    10,     zone, 99.98%
+[O]     2,     zone,    13,     zone, 100.00%
+[X]     1,     zone
+[X]     3,     zone
+[X]     6,     zone
+[OVERALL] 4/0/3/7, 57.14%
+
+aab72e00.tif
+============
+
+Page ID : 1
+-------------
+[X]     1,     zone
+[O]    M0,     zone,     2,     zone, 87.00%
+       M0 : 16, 19
+[O]    M1,     zone,     3,     zone, 94.01%
+       M1 : 2, 13, 14
+[O]    M2,     zone,     4,     zone, 100.00%
+       M2 : 18, 20
+[O]     5,     zone,     5,     zone, 100.00%
+[O]     6,     zone,     6,     zone, 97.68%
+[O]     9,     zone,     7,     zone, 89.42%
+[O]    11,     zone,     8,     zone, 96.93%
+[X]    17,     zone
+[OVERALL] 7/0/2/9, 77.78%
+
+aac13e00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 87.98%
+       M0 : 1, 14
+[O]    M1,     zone,     2,     zone, 100.00%
+       M1 : 3, 13
+[O]     4,     zone,     3,     zone, 99.94%
+[O]     5,     zone,     4,     zone, 98.92%
+[O]     6,     zone,     5,     zone, 100.00%
+[O]     7,     zone,     6,     zone, 99.96%
+[X]     2,     zone
+[X]     8,     zone
+[X]    19,     zone
+[OVERALL] 6/0/3/9, 66.67%
+
+aac18d00.tif
+============
+
+Page ID : 1
+-------------
+[X]    23,     zone
+[O]     2,     zone,     4,     zone, 100.00%
+[O]    13,     zone,     6,     zone, 100.00%
+[O]     4,     zone,     7,     zone, 99.99%
+[O]    35,     zone,     8,     zone, 100.00%
+[O]     5,     zone,     9,     zone, 100.00%
+[O]     6,     zone,    10,     zone, 100.00%
+[O]    34,     zone,    11,     zone, 100.00%
+[O]     7,     zone,    12,     zone, 100.00%
+[O]     8,     zone,    13,     zone, 100.00%
+[O]    30,     zone,    14,     zone, 100.00%
+[X]    M0,     zone
+       M0 : 22, 26
+[O]    36,     zone,    16,     zone, 100.00%
+[O]    51,     zone,    19,     zone, 81.68%
+[X]    27,     zone
+[O]    11,     zone,    22,     zone, 100.00%
+[O]    50,     zone,    23,     zone, 100.00%
+[O]    52,     zone,    24,     zone, 100.00%
+[O]    18,     zone,    26,     zone, 100.00%
+[O]    33,     zone,    27,     zone, 100.00%
+[X]     1,     zone
+[X]     3,     zone
+[X]     9,     zone
+[X]    10,     zone
+[X]    24,     zone
+[X]    28,     zone
+[X]    29,     zone
+[X]    32,     zone
+[OVERALL] 17/0/11/28, 60.71%
+
+aac49c00.tif
+============
+
+Page ID : 1
+-------------
+[O]    32,     zone,     1,     zone, 95.54%
+[O]    M0,     zone,     2,     zone, 90.51%
+       M0 : 53, 57, 60, 65
+[O]    M1,     zone,     3,     zone, 99.56%
+       M1 : 11, 45, 49, 50
+[O]    M2,     zone,     4,     zone, 99.73%
+       M2 : 2, 29, 40
+[O]     4,     zone,     5,     zone, 92.74%
+[O]     5,     zone,     6,     zone, 99.78%
+[X]    24,     zone
+[O]    18,     zone,     8,     zone, 95.33%
+[O]     8,     zone,     9,     zone, 99.98%
+[O]    43,     zone,    10,     zone, 99.99%
+[O]    M3,     zone,    11,     zone, 99.59%
+       M3 : 39, 47
+[O]    M4,     zone,    14,     zone, 99.68%
+       M4 : 25, 28
+[X]    54,     zone
+[X]     1,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]     9,     zone
+[X]    14,     zone
+[X]    17,     zone
+[X]    23,     zone
+[X]    35,     zone
+[X]    37,     zone
+[X]    41,     zone
+[X]    48,     zone
+[X]    51,     zone
+[X]    64,     zone
+[OVERALL] 11/0/15/26, 42.31%
+
+aac4aa00.tif
+============
+
+Page ID : 1
+-------------
+[O]    24,     zone,     1,     zone, 98.63%
+[O]    M0,     zone,     2,     zone, 99.98%
+       M0 : 16, 18
+[O]    17,     zone,     3,     zone, 100.00%
+[O]    14,     zone,     4,     zone, 100.00%
+[O]     4,     zone,     6,     zone, 99.96%
+[O]    M1,     zone,     7,     zone, 97.73%
+       M1 : 6, 7, 8, 9, 10, 11, 12, 13
+[O]    22,     zone,     9,     zone, 81.85%
+[O]    M2,     zone,    10,     zone, 99.84%
+       M2 : 20, 21, 26, 27, 28, 29, 30, 33
+[X]     1,     zone
+[X]     2,     zone
+[X]    19,     zone
+[X]    35,     zone
+[X]    36,     zone
+[OVERALL] 8/0/5/13, 61.54%
+
+aac92f00.tif
+============
+
+Page ID : 1
+-------------
+[O]    41,     zone,     1,     zone, 97.69%
+[O]    M0,     zone,     2,     zone, 87.21%
+       M0 : 3, 12
+[X]    M1,     zone
+       M1 : 70, 76
+[O]    M2,     zone,     4,     zone, 99.92%
+       M2 : 4, 7, 8, 17, 20, 24, 25
+[O]    38,     zone,     6,     zone, 98.28%
+[O]    M3,     zone,     7,     zone, 99.94%
+       M3 : 55, 63, 66, 71, 73, 74
+[O]    54,     zone,     8,     zone, 83.57%
+[O]    23,     zone,    10,     zone, 99.37%
+[X]     1,     zone
+[X]     2,     zone
+[X]     6,     zone
+[X]    10,     zone
+[X]    16,     zone
+[X]    37,     zone
+[OVERALL] 7/0/7/14, 50.00%
+
+aac94e00.tif
+============
+
+Page ID : 1
+-------------
+[X]    23,     zone
+[O]     3,     zone,     3,     zone, 83.09%
+[X]    69,     zone
+[X]    13,     zone
+[O]    43,     zone,     9,     zone, 80.52%
+[X]    25,     zone
+[O]    28,     zone,    12,     zone, 90.85%
+[X]    71,     zone
+[O]    32,     zone,    15,     zone, 99.01%
+[X]    M0,     zone
+       M0 : 61, 62
+[O]    64,     zone,    17,     zone, 98.84%
+[X]    58,     zone
+[O]    54,     zone,    20,     zone, 84.33%
+[O]    M1,     zone,    21,     zone, 99.86%
+       M1 : 89, 92
+[O]    91,     zone,    22,     zone, 88.26%
+[O]    M2,     zone,    24,     zone, 99.70%
+       M2 : 41, 61, 62, 64
+[X]     1,     zone
+[X]     6,     zone
+[X]     8,     zone
+[X]    18,     zone
+[X]    34,     zone
+[X]    75,     zone
+[X]    85,     zone
+[X]    88,     zone
+[X]    93,     zone
+[X]    99,     zone
+[OVERALL] 9/0/17/26, 34.62%
+
+aad12f00.tif
+============
+
+Page ID : 1
+-------------
+[X]    M0,     zone
+       M0 : 20, 29
+[O]    M1,     zone,     2,     zone, 99.44%
+       M1 : 2, 16, 26
+[O]    11,     zone,     3,     zone, 100.00%
+[O]     9,     zone,     4,     zone, 99.89%
+[O]    M2,     zone,     5,     zone, 86.71%
+       M2 : 7, 13
+[X]    10,     zone
+[O]     3,     zone,     8,     zone, 99.92%
+[O]    23,     zone,     9,     zone, 99.95%
+[O]    19,     zone,    10,     zone, 99.98%
+[X]     1,     zone
+[OVERALL] 7/0/3/10, 70.00%
+
+aad14e00.tif
+============
+
+Page ID : 1
+-------------
+[O]     9,     zone,     7,     zone, 86.27%
+[O]    15,     zone,     3,     zone, 99.02%
+[O]    36,     zone,     4,     zone, 99.70%
+[O]    M0,     zone,     5,     zone, 99.90%
+       M0 : 2, 4, 5, 7, 8, 20, 22, 25, 27, 30
+[O]    12,     zone,     6,     zone, 99.90%
+[O]     9,     zone,     2,     zone, 97.49%
+[X]     1,     zone
+[X]    13,     zone
+[X]    16,     zone
+[X]    18,     zone
+[X]    19,     zone
+[X]    26,     zone
+[X]    28,     zone
+[X]    31,     zone
+[X]    35,     zone
+[OVERALL] 6/0/9/15, 40.00%
+
+aad54f00.tif
+============
+
+Page ID : 1
+-------------
+[O]     1,     zone,     1,     zone, 98.46%
+[O]     8,     zone,     2,     zone, 99.02%
+[X]     3,     zone
+[O]     7,     zone,     8,     zone, 99.62%
+[X]     4,     zone
+[OVERALL] 3/0/2/5, 60.00%
+
+aad77c00.tif
+============
+
+Page ID : 1
+-------------
+[O]     6,     zone,     5,     zone, 100.00%
+[O]    11,     zone,     6,     zone, 100.00%
+[O]    M0,     zone,     7,     zone, 98.29%
+       M0 : 1, 7, 8, 9, 10
+[X]     2,     zone
+[OVERALL] 3/0/1/4, 75.00%
+
+aad91e00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 98.97%
+       M0 : 11, 18
+[O]     3,     zone,     2,     zone, 99.19%
+[O]     4,     zone,     3,     zone, 98.04%
+[X]    16,     zone
+[O]    M1,     zone,     5,     zone, 96.44%
+       M1 : 24, 26
+[O]     6,     zone,     6,     zone, 99.96%
+[O]     7,     zone,     7,     zone, 99.99%
+[O]     8,     zone,     8,     zone, 99.98%
+[O]     9,     zone,     9,     zone, 99.92%
+[O]    10,     zone,    10,     zone, 98.88%
+[X]     1,     zone
+[X]    12,     zone
+[X]    29,     zone
+[OVERALL] 9/0/4/13, 69.23%
+
+aad97e00.tif
+============
+
+Page ID : 1
+-------------
+[X]     6,     zone
+[O]     4,     zone,     9,     zone, 99.04%
+[O]     7,     zone,    10,     zone, 94.92%
+[X]     1,     zone
+[X]     2,     zone
+[X]     3,     zone
+[X]     9,     zone
+[X]    10,     zone
+[OVERALL] 2/0/6/8, 25.00%
+
+aae7aa00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 93.83%
+       M0 : 13, 27, 31, 36, 46, 54, 60, 65
+[O]    M1,     zone,     2,     zone, 99.97%
+       M1 : 15, 21, 45
+[O]    M2,     zone,     3,     zone, 99.79%
+       M2 : 47, 56, 67
+[O]    M3,     zone,     4,     zone, 99.89%
+       M3 : 3, 4
+[O]    17,     zone,     5,     zone, 100.00%
+[O]    11,     zone,     6,     zone, 99.94%
+[O]     5,     zone,     7,     zone, 99.92%
+[O]     6,     zone,     8,     zone, 99.95%
+[O]     7,     zone,     9,     zone, 99.89%
+[O]    40,     zone,    10,     zone, 100.00%
+[X]    48,     zone
+[O]    12,     zone,    12,     zone, 97.67%
+[O]    M4,     zone,    13,     zone, 99.67%
+       M4 : 14, 35, 42, 62
+[O]    M5,     zone,    14,     zone, 93.91%
+       M5 : 32, 55, 57
+[X]     1,     zone
+[X]     2,     zone
+[X]     8,     zone
+[X]     9,     zone
+[OVERALL] 13/0/5/18, 72.22%
+
+aaf35f00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 99.67%
+       M0 : 10, 15, 22
+[O]     1,     zone,     2,     zone, 100.00%
+[O]    30,     zone,     3,     zone, 100.00%
+[O]    M1,     zone,     4,     zone, 100.00%
+       M1 : 38, 39
+[O]    23,     zone,     5,     zone, 99.13%
+[O]     2,     zone,     6,     zone, 100.00%
+[O]    12,     zone,     7,     zone, 100.00%
+[O]     9,     zone,     8,     zone, 99.77%
+[O]    13,     zone,     9,     zone, 99.24%
+[O]    14,     zone,    10,     zone, 100.00%
+[O]    29,     zone,    11,     zone, 100.00%
+[O]    26,     zone,    12,     zone, 98.94%
+[O]    M2,     zone,    13,     zone, 100.00%
+       M2 : 8, 19
+[O]     7,     zone,    14,     zone, 95.41%
+[O]     3,     zone,    15,     zone, 98.27%
+[O]    37,     zone,    17,     zone, 98.52%
+[X]    34,     zone
+[OVERALL] 16/0/1/17, 94.12%
+
+aaf37c00.tif
+============
+
+Page ID : 1
+-------------
+[O]     1,     zone,     1,     zone, 99.48%
+[O]    M0,     zone,     2,     zone, 100.00%
+       M0 : 3, 9
+[O]     4,     zone,     4,     zone, 98.37%
+[O]     7,     zone,     6,     zone, 94.41%
+[O]    12,     zone,     7,     zone, 100.00%
+[X]     2,     zone
+[OVERALL] 5/0/1/6, 83.33%
+
+aaf57c00.tif
+============
+
+Page ID : 1
+-------------
+[O]     1,     zone,     1,     zone, 99.78%
+[O]     3,     zone,     2,     zone, 95.25%
+[X]     2,     zone
+[X]     9,     zone
+[OVERALL] 2/0/2/4, 50.00%
+
+aag43f00.tif
+============
+
+Page ID : 1
+-------------
+[O]     9,     zone,     2,     zone, 100.00%
+[O]    M0,     zone,     3,     zone, 94.84%
+       M0 : 27, 37
+[O]    30,     zone,     4,     zone, 100.00%
+[O]    M1,     zone,     5,     zone, 100.00%
+       M1 : 10, 15
+[O]     7,     zone,     6,     zone, 99.97%
+[O]     5,     zone,     7,     zone, 100.00%
+[O]     8,     zone,     8,     zone, 100.00%
+[O]     3,     zone,     9,     zone, 99.98%
+[O]    M2,     zone,    10,     zone, 99.11%
+       M2 : 6, 17, 21, 22, 33
+[O]    29,     zone,    11,     zone, 100.00%
+[O]    12,     zone,    12,     zone, 100.00%
+[O]    M3,     zone,    17,     zone, 92.70%
+       M3 : 24, 31
+[O]    28,     zone,    14,     zone, 98.61%
+[X]    31,     zone
+[O]    M4,     zone,    18,     zone, 100.00%
+       M4 : 35, 40, 42
+[X]     1,     zone
+[X]    11,     zone
+[X]    16,     zone
+[X]    32,     zone
+[X]    44,     zone
+[OVERALL] 14/0/6/20, 70.00%
+
+aah03f00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 96.88%
+       M0 : 1, 7
+[O]     5,     zone,     2,     zone, 99.94%
+[O]    20,     zone,     3,     zone, 95.23%
+[X]     4,     zone
+[X]     9,     zone
+[X]    15,     zone
+[X]    18,     zone
+[X]    21,     zone
+[OVERALL] 3/0/5/8, 37.50%
+
+aah1aa00.tif
+============
+
+Page ID : 1
+-------------
+[O]    16,     zone,     1,     zone, 99.87%
+[O]    14,     zone,     2,     zone, 99.99%
+[O]    12,     zone,     3,     zone, 100.00%
+[O]    11,     zone,     4,     zone, 100.00%
+[O]    10,     zone,     5,     zone, 99.93%
+[X]     1,     zone
+[X]     7,     zone
+[OVERALL] 5/0/2/7, 71.43%
+
+aah5aa00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 99.83%
+       M0 : 18, 27
+[X]    M1,     zone
+       M1 : 17, 21
+[O]    20,     zone,     4,     zone, 100.00%
+[O]    19,     zone,     5,     zone, 98.26%
+[O]     7,     zone,     6,     zone, 96.69%
+[X]    32,     zone
+[X]     6,     zone
+[X]     1,     zone
+[X]     3,     zone
+[X]    34,     zone
+[X]    42,     zone
+[OVERALL] 4/0/7/11, 36.36%
+
+aai10e00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 98.74%
+       M0 : 3, 27
+[O]    33,     zone,     2,     zone, 99.78%
+[O]    13,     zone,     3,     zone, 100.00%
+[O]    M1,     zone,     4,     zone, 98.53%
+       M1 : 4, 5, 21, 23
+[O]     6,     zone,     5,     zone, 99.85%
+[O]     7,     zone,     6,     zone, 99.61%
+[O]     8,     zone,     8,     zone, 91.96%
+[O]    22,     zone,     9,     zone, 99.36%
+[O]    12,     zone,    10,     zone, 100.00%
+[O]     9,     zone,    11,     zone, 98.00%
+[O]    17,     zone,    12,     zone, 99.45%
+[O]    31,     zone,    13,     zone, 99.46%
+[O]    34,     zone,    14,     zone, 96.95%
+[O]    27,     zone,    16,     zone, 99.83%
+[X]     1,     zone
+[X]    14,     zone
+[X]    32,     zone
+[OVERALL] 14/0/3/17, 82.35%
+
+aai11e00.tif
+============
+
+Page ID : 1
+-------------
+[O]     8,     zone,     1,     zone, 99.05%
+[O]     3,     zone,     2,     zone, 99.97%
+[O]    11,     zone,     9,     zone, 96.95%
+[O]    M0,     zone,    10,     zone, 99.83%
+       M0 : 1, 9, 10
+[X]     4,     zone
+[X]     5,     zone
+[X]     6,     zone
+[X]     7,     zone
+[X]    12,     zone
+[OVERALL] 4/0/5/9, 44.44%
+
+aai12c00.tif
+============
+
+Page ID : 1
+-------------
+[O]     1,     zone,     1,     zone, 87.82%
+[O]     5,     zone,     3,     zone, 91.41%
+[O]    M0,     zone,     4,     zone, 100.00%
+       M0 : 3, 7, 12
+[O]    M1,     zone,     5,     zone, 99.95%
+       M1 : 4, 8
+[O]     9,     zone,     6,     zone, 94.26%
+[X]     2,     zone
+[OVERALL] 5/0/1/6, 83.33%
+
+aai20a00.tif
+============
+
+Page ID : 1
+-------------
+[O]    11,     zone,     1,     zone, 99.37%
+[O]     6,     zone,     2,     zone, 97.38%
+[O]     1,     zone,     4,     zone, 82.29%
+[O]    10,     zone,    20,     zone, 100.00%
+[X]     3,     zone
+[X]     4,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]     9,     zone
+[X]    12,     zone
+[OVERALL] 4/0/6/10, 40.00%
+
+aai64e00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     3,     zone, 85.21%
+       M0 : 74, 112
+[X]    M1,     zone
+       M1 : 129, 141
+[X]    M2,     zone
+       M2 : 111, 119, 145
+[O]    62,     zone,    13,     zone, 94.59%
+[O]    M3,     zone,    14,     zone, 99.00%
+       M3 : 33, 81, 102
+[X]    M4,     zone
+       M4 : 83, 113
+[O]    M5,     zone,    16,     zone, 97.23%
+       M5 : 20, 28, 35, 49, 62, 80, 94, 106
+[X]     1,     zone
+[X]     5,     zone
+[X]     7,     zone
+[X]     8,     zone
+[X]    10,     zone
+[X]    11,     zone
+[X]    13,     zone
+[X]    14,     zone
+[X]    19,     zone
+[X]    21,     zone
+[X]    25,     zone
+[X]    26,     zone
+[X]    27,     zone
+[X]    30,     zone
+[X]    31,     zone
+[X]    32,     zone
+[X]    34,     zone
+[X]    37,     zone
+[X]    38,     zone
+[X]    39,     zone
+[X]    40,     zone
+[X]    41,     zone
+[X]    43,     zone
+[X]    44,     zone
+[X]    45,     zone
+[X]    47,     zone
+[X]    50,     zone
+[X]    52,     zone
+[X]    55,     zone
+[X]    59,     zone
+[X]    65,     zone
+[X]    67,     zone
+[X]    73,     zone
+[X]    79,     zone
+[X]    86,     zone
+[X]    90,     zone
+[X]    92,     zone
+[X]    98,     zone
+[X]   105,     zone
+[X]   109,     zone
+[X]   110,     zone
+[X]   133,     zone
+[X]   135,     zone
+[X]   138,     zone
+[X]   142,     zone
+[X]   146,     zone
+[X]   147,     zone
+[X]   148,     zone
+[X]   150,     zone
+[X]   151,     zone
+[X]   153,     zone
+[X]   155,     zone
+[OVERALL] 4/0/55/59, 6.78%
+
+aai66c00.tif
+============
+
+Page ID : 1
+-------------
+[O]     1,     zone,     2,     zone, 95.17%
+[O]    12,     zone,     3,     zone, 99.35%
+[O]     9,     zone,     4,     zone, 95.82%
+[O]    M0,     zone,     5,     zone, 100.00%
+       M0 : 4, 11
+[O]     5,     zone,     6,     zone, 100.00%
+[O]     6,     zone,     7,     zone, 99.95%
+[O]     7,     zone,     8,     zone, 100.00%
+[O]     3,     zone,     9,     zone, 99.98%
+[O]     8,     zone,    10,     zone, 99.00%
+[OVERALL] 9/0/0/9, 100.00%
+
+aaj13e00.tif
+============
+
+Page ID : 1
+-------------
+[O]     2,     zone,     1,     zone, 85.04%
+[O]    M0,     zone,     2,     zone, 100.00%
+       M0 : 4, 19
+[O]     5,     zone,     3,     zone, 100.00%
+[O]    M1,     zone,     4,     zone, 99.02%
+       M1 : 6, 20
+[O]     7,     zone,     5,     zone, 99.61%
+[O]    13,     zone,     6,     zone, 99.34%
+[O]     8,     zone,     7,     zone, 99.98%
+[O]    14,     zone,     8,     zone, 100.00%
+[O]    11,     zone,     9,     zone, 99.98%
+[O]     9,     zone,    10,     zone, 99.20%
+[O]    29,     zone,    11,     zone, 99.98%
+[O]    30,     zone,    12,     zone, 100.00%
+[O]    24,     zone,    13,     zone, 100.00%
+[O]    31,     zone,    14,     zone, 100.00%
+[O]    27,     zone,    15,     zone, 99.60%
+[X]     1,     zone
+[OVERALL] 15/0/1/16, 93.75%
+
+aaj63e00.tif
+============
+
+Page ID : 1
+-------------
+[X]    10,     zone
+[O]     5,     zone,     7,     zone, 91.05%
+[X]     1,     zone
+[X]     3,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]    13,     zone
+[X]    19,     zone
+[X]    31,     zone
+[X]    34,     zone
+[X]    35,     zone
+[X]    39,     zone
+[X]    44,     zone
+[OVERALL] 1/0/12/13, 7.69%
+
+aaj65f00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 96.22%
+       M0 : 2, 3, 4
+[X]     1,     zone
+[X]     5,     zone
+[X]     7,     zone
+[OVERALL] 1/0/3/4, 25.00%
+
+aak63e00.tif
+============
+
+Page ID : 1
+-------------
+[O]     6,     zone,     8,     zone, 100.00%
+[O]     5,     zone,    13,     zone, 100.00%
+[O]     4,     zone,    14,     zone, 80.64%
+[O]     9,     zone,    16,     zone, 99.04%
+[X]     8,     zone
+[O]    11,     zone,    20,     zone, 97.56%
+[O]    11,     zone,    19,     zone, 99.48%
+[X]     1,     zone
+[X]     3,     zone
+[X]    14,     zone
+[X]    15,     zone
+[OVERALL] 6/0/5/11, 54.55%
+
+aak6aa00.tif
+============
+
+Page ID : 1
+-------------
+[O]     3,     zone,     2,     zone, 93.74%
+[O]     4,     zone,     3,     zone, 100.00%
+[O]     5,     zone,     4,     zone, 99.89%
+[O]     6,     zone,     5,     zone, 99.96%
+[O]    M0,     zone,     6,     zone, 100.00%
+       M0 : 9, 16, 19
+[O]    15,     zone,     7,     zone, 100.00%
+[O]    14,     zone,     8,     zone, 99.96%
+[X]     7,     zone
+[X]     1,     zone
+[X]     2,     zone
+[OVERALL] 7/0/3/10, 70.00%
+
+aak81e00.tif
+============
+
+Page ID : 1
+-------------
+[O]     2,     zone,     1,     zone, 99.52%
+[O]    23,     zone,     2,     zone, 96.29%
+[O]    M0,     zone,     3,     zone, 99.81%
+       M0 : 56, 68
+[O]    M1,     zone,     4,     zone, 94.84%
+       M1 : 26, 30, 34, 42, 50, 59, 62, 65
+[O]    13,     zone,     9,     zone, 88.43%
+[X]    M2,     zone
+       M2 : 63, 69, 70
+[O]    M3,     zone,    12,     zone, 99.56%
+       M3 : 10, 47, 52, 54
+[O]    53,     zone,    14,     zone, 84.88%
+[O]    M4,     zone,    15,     zone, 97.21%
+       M4 : 3, 4
+[X]     1,     zone
+[X]     5,     zone
+[X]    67,     zone
+[X]    72,     zone
+[X]    73,     zone
+[OVERALL] 8/0/6/14, 57.14%
+
+aak81f00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 96.87%
+       M0 : 7, 14, 17, 18, 21, 25, 40
+[O]     9,     zone,     2,     zone, 99.84%
+[O]    36,     zone,     3,     zone, 89.01%
+[O]    11,     zone,     4,     zone, 93.13%
+[O]    M1,     zone,     5,     zone, 99.87%
+       M1 : 2, 8, 19
+[O]    24,     zone,     6,     zone, 100.00%
+[O]     3,     zone,     7,     zone, 99.76%
+[O]    16,     zone,     8,     zone, 100.00%
+[O]     4,     zone,     9,     zone, 99.60%
+[O]    28,     zone,    10,     zone, 99.88%
+[X]    39,     zone
+[O]    35,     zone,    15,     zone, 100.00%
+[O]    31,     zone,    16,     zone, 100.00%
+[O]    30,     zone,    17,     zone, 99.97%
+[O]    29,     zone,    18,     zone, 100.00%
+[O]    32,     zone,    19,     zone, 98.37%
+[X]     1,     zone
+[X]    47,     zone
+[OVERALL] 15/0/3/18, 83.33%
+
+aal05c00.tif
+============
+
+Page ID : 1
+-------------
+[O]     2,     zone,     2,     zone, 99.48%
+[O]     4,     zone,     3,     zone, 86.58%
+[O]     6,     zone,     5,     zone, 88.51%
+[X]     1,     zone
+[X]     3,     zone
+[OVERALL] 3/0/2/5, 60.00%
+
+aal05f00.tif
+============
+
+Page ID : 1
+-------------
+[O]    11,     zone,     1,     zone, 100.00%
+[O]     2,     zone,     2,     zone, 100.00%
+[O]     5,     zone,     6,     zone, 100.00%
+[X]     1,     zone
+[X]     4,     zone
+[X]     6,     zone
+[X]     9,     zone
+[X]    12,     zone
+[X]    13,     zone
+[X]    14,     zone
+[OVERALL] 3/0/7/10, 30.00%
+
+aam13e00.tif
+============
+
+Page ID : 1
+-------------
+[O]    M0,     zone,     1,     zone, 80.99%
+       M0 : 22, 28
+[O]    M1,     zone,     2,     zone, 99.99%
+       M1 : 70, 75, 76
+[O]    37,     zone,     3,     zone, 100.00%
+[O]    10,     zone,     4,     zone, 99.67%
+[O]    17,     zone,     5,     zone, 89.86%
+[X]    18,     zone
+[O]    44,     zone,    16,     zone, 99.03%
+[X]    34,     zone
+[X]    M2,     zone
+       M2 : 60, 66
+[O]    77,     zone,    21,     zone, 99.92%
+[O]    M3,     zone,    24,     zone, 95.39%
+       M3 : 38, 40, 48, 61
+[O]    M4,     zone,    29,     zone, 98.30%
+       M4 : 49, 73
+[X]     1,     zone
+[X]    29,     zone
+[X]    41,     zone
+[X]    58,     zone
+[X]    65,     zone
+[X]    85,     zone
+[OVERALL] 9/0/9/18, 50.00%
+
+aam52f00.tif
+============
+
+Page ID : 1
+-------------
+[O]     8,     zone,     4,     zone, 100.00%
+[O]    M0,     zone,     5,     zone, 99.99%
+       M0 : 2, 3, 5, 12
+[O]     4,     zone,     6,     zone, 99.34%
+[O]    10,     zone,     7,     zone, 98.86%
+[X]     1,     zone
+[X]     7,     zone
+[X]     9,     zone
+[X]    13,     zone
+[OVERALL] 4/0/4/8, 50.00%
+
+aam56e00.tif
+============
+
+Page ID : 1
+-------------
+[O]     2,     zone,     1,     zone, 90.11%
+[O]    34,     zone,     3,     zone, 98.21%
+[O]     4,     zone,     6,     zone, 85.25%
+[O]    16,     zone,    11,     zone, 81.35%
+[X]    27,     zone
+[O]     8,     zone,    13,     zone, 87.29%
+[O]    35,     zone,    17,     zone, 99.85%
+[O]    38,     zone,    18,     zone, 100.00%
+[X]    33,     zone
+[X]    10,     zone
+[X]    31,     zone
+[X]    37,     zone
+[X]    40,     zone
+[X]    41,     zone
+[X]    42,     zone
+[X]    43,     zone
+[X]    44,     zone
+[X]    46,     zone
+[X]    47,     zone
+[X]    48,     zone
+[X]    49,     zone
+[X]    50,     zone
+[X]    51,     zone
+[X]    52,     zone
+[X]    53,     zone
+[X]    54,     zone
+[X]    55,     zone
+[X]    56,     zone
+[X]    58,     zone
+[X]    60,     zone
+[X]    61,     zone
+[X]    62,     zone
+[X]    63,     zone
+[X]    64,     zone
+[OVERALL] 7/0/27/34, 20.59%
+
+==================
+Summary of Results
+==================
+
+- Number of Files : 86
+- Accuracy of Zone Detecting : 28.42%
+
+01. Information on Zones
+========================
+
+Label   Class of Zone             Num. in Result     Num. in G-Truth       Accuracy
+-----------------------------------------------------------------------------------
+1       zone                                1641                1078         35.10%
+
+02. Confusion Matrix
+====================
+
+ Result\GT     unmatch            1
+-----------------------------------
+   unmatch    0( 0.0%)*  502(46.6%) 
+         1 1065(64.9%)   576(35.1%)*
+
+03. Result Table
+================
+
+Label      GT    Result   Correct  Precsion    Recall   F-Score   Missing  FalseAlarm
+-------------------------------------------------------------------------------------
+    1    1078      1641       576    35.10%    53.43%    42.37%    46.57%      64.90%
+
+Evaluation process is finished at Sun Nov 22 09:51:29 2009
+

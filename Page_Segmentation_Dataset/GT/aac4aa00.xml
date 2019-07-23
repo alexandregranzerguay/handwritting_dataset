@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="B01005" date="October 16, 2007 8:06 PM" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Elena" date="October 18, 2007 9:15 PM" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Mudit" date="11/29/2009 3:35" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="b01005" date="October 17, 2007 5:38 PM" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="aac4aa00.tif" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="aac4aa00.tif" pageID="1" width="2544" height="3296">
+			<DL_ZONE gedi_type="MACHINEPRINT" id="1" col="1464" row="268" width="600" height="56" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="2" col="540" row="1700" width="1380" height="100" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="3" col="544" row="1816" width="1370" height="672" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="4" col="408" row="2696" width="408" height="60" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="5" col="700" row="857" width="221" height="36" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="6" col="416" row="386" width="796" height="362"> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="7" col="436" row="898" width="778" height="702" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="8" col="1474" row="1477" width="344" height="35" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="9" col="1236" row="1517" width="813" height="67" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="10" col="1248" row="380" width="804" height="1082" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="11" polygon="(372,913);(365,2835);(2131,2835);(2131,2984);(128,2950);(135,406);(284,385)"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="12" col="230" row="128" width="121" height="142"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

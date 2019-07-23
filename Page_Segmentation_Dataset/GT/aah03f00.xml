@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<USER name="B01061" date="October 22, 2007 12:43 PM" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="B1068" date="October 30, 2007 2:34 PM" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Mudit" date="11/29/2009 3:41" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="aah03f00.tif" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="aah03f00.tif" pageID="1" width="2496" height="3247">
+			<DL_ZONE gedi_type="HANDPRINT" id="1" col="92" row="236" width="2120" height="980" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="HANDPRINT" id="2" polygon="(40,2580);(2260,2560);(2216,2844);(744,2920);(744,3036);(60,3020);(32,2584)" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MACHINEPRINT" id="3" col="1788" row="2928" width="548" height="83" orientationD="2.508" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="4" col="956" row="656" width="348" height="288" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="MARKUP" id="5" col="2308" row="72" width="156" height="132" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="6" col="713" row="1360" width="1127" height="953"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

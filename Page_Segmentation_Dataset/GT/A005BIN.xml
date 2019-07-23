@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/media/projects/GEDI/" GEDI_version="2.1.14" GEDI_date="12/19/2008">
+	<USER name="Mudit" date="11/23/2009 3:31" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Wontaek" date="Mon Dec 17 04:12:13 EST 2007" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="mudit" date="3/20/2010 21:16" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="A005BIN.TIF" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="A005BIN.TIF" pageID="1" width="2592" height="3300">
+			<DL_ZONE gedi_type="text_lg" id="000" col="345" row="178" width="814" height="82" zoneType="page-header" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_lg" id="001" col="405" row="642" width="1837" height="589" zoneType="title" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="002" col="394" row="1411" width="1908" height="118" zoneType="author" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="005" col="349" row="1877" width="933" height="641" zoneType="abstract-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="007" col="344" row="2568" width="823" height="41" zoneType="keyword-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="008" col="348" row="2710" width="930" height="82" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="009" col="351" row="2840" width="928" height="186" zoneType="affiliation" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00B" col="1376" row="1848" width="932" height="1163" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sym" id="00D" col="818" row="3039" width="1035" height="33" zoneType="page-footer" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00E" col="356" row="3120" width="58" height="25" zoneType="page-number" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="00F" col="1862" row="3116" width="408" height="34" zoneType="page-footer" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="10" col="335" row="1833" width="956" height="40"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="11" col="868" row="2615" width="429" height="32"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="12" col="341" row="2806" width="603" height="23"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

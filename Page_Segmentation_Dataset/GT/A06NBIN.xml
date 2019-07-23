@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI was developed at Language and Media Processing Laboratory, University of Maryland.-->
+
+<GEDI xmlns="http://lamp.cfar.umd.edu/media/projects/GEDI/" GEDI_version="2.1.14" GEDI_date="12/19/2008">
+	<USER name="Mudit" date="11/29/2009 3:26" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="Wontaek" date="Mon Dec 17 04:12:15 EST 2007" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<USER name="mudit" date="3/20/2010 21:41" dateFormat="mm/dd/yyyy hh:mm">	</USER>
+	<DL_DOCUMENT src="A06NBIN.TIF" docTag="xml" NrOfPages="1">
+		<DL_PAGE gedi_type="DL_PAGE" src="A06NBIN.TIF" pageID="1" width="2592" height="3300">
+			<DL_ZONE gedi_type="text_sm" id="000" col="628" row="691" width="800" height="30" zoneType="page-header" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="001" col="2063" row="685" width="37" height="28" zoneType="page-number" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="002" col="630" row="873" width="386" height="52" zoneType="section-heading" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="003" col="628" row="1013" width="1471" height="148" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="004" col="628" row="1289" width="1470" height="90" zoneType="reference-list-item" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="005" col="614" row="1457" width="1490" height="628" zoneType="text-body" contents=""> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="6" polygon="(725,3062);(2120,3062);(2120,2256);(921,2283);(826,2337);(711,2371);(711,2371);(704,2358)"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="7" col="630" row="2093" width="1497" height="156"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="8" polygon="(542,3279);(806,3286);(704,3076);(691,2364);(596,2222);(603,779);(542,765);(542,2242);(542,2242);(399,2283);(535,2270);(535,2276)"> </DL_ZONE>
+			<DL_ZONE gedi_type="text_sm" id="9" polygon="(264,562);(2317,623);(2310,3259);(2520,3279);(2534,40);(40,47);(20,575);(27,582)"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>
