@@ -2,19 +2,19 @@ from azure.cognitiveservices.vision.customvision.training import CustomVisionTra
 from azure.cognitiveservices.vision.customvision.training.models import ImageFileCreateEntry
 import glob, os
 
-ENDPOINT = "https://southcentralus.api.cognitive.microsoft.com"
+ENDPOINT = "https://southcentralus.api.cognitive.microsoft.com/"
 
-training_key = "fff242d0c6c64d49848d62e7bc7ee9f0"
-prediction_key = "80baf3ea051a442ab0805892939a7591"
-prediction_resource_id = "/subscriptions/a9668ed2-2114-4ab9-8600-c2ca85997b9a/resourceGroups/Growing_Forest/providers/Microsoft.CognitiveServices/accounts/Growing_Forest_prediction"
-project_id = "98cfcb17-841d-4b72-a84b-84ec4151f5a2"
+training_key = "27891bb13a064eea9d748e02a3c26603"
+prediction_key = "27891bb13a064eea9d748e02a3c26603"
+prediction_resource_id = "/subscriptions/10f63f4d-59f8-4014-8bc1-3a84a37c2b20/resourceGroups/foggyforestrg/providers/Microsoft.CognitiveServices/accounts/foggyforestrg_prediction"
+project_id = "d960a2df-49ea-48d6-a5c4-198438938c80"
 
 publish_iteration_name = "classifyModel"
 
 trainer = CustomVisionTrainingClient(training_key, endpoint=ENDPOINT)
 
 # Make two tags in the new project
-notes_tag = trainer.create_tag(project_id, "Notes")
+notes_tag = trainer.create_tag(project_id, "Note")
 memo_tag = trainer.create_tag(project_id, "Memo")
 news_tag = trainer.create_tag(project_id, "News")
 resume_tag = trainer.create_tag(project_id, "Resume")
@@ -28,6 +28,7 @@ tags = [notes_tag, memo_tag, news_tag, report_tag, resume_tag, email_tag]
 print("Adding images...")
 for tag in tags:
     image_list = []
+    print("tag name: ",tag.name)
     base_image_url = "./" + tag.name + "/training/"
 
     for image_path in glob.glob(base_image_url + '*.jpg'):
@@ -37,6 +38,7 @@ for tag in tags:
         with open(image_path, "rb") as image_contents:
             image_list.append(ImageFileCreateEntry(name=file_name, contents=image_contents.read(), tag_ids=[tag.id]))
     print("Uploading new batch of images")
+    print(image_list==[])
     upload_result = trainer.create_images_from_files(project_id, images=image_list)
     if not upload_result.is_batch_successful:
         print("Image batch upload failed.")

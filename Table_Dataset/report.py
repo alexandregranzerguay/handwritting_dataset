@@ -1,4 +1,5 @@
 import json
+import sys
 
 def openReport(filepath):
     with open(filepath, 'r') as f:
@@ -20,3 +21,11 @@ def calculations(sum_proba, sum_success, counter):
     ave_proba = sum_proba/counter
     success_rate = sum_success/counter * 100
     return ave_proba, success_rate
+
+if __name__=='__main__':
+    try: 
+        filepath = sys.argv[1]
+    except:
+        print('Run it again and specify report path in argv')
+        exit()
+    openReport(filepath)
