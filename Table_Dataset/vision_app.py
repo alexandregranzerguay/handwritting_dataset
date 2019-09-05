@@ -4,12 +4,12 @@ import glob, os
 
 ENDPOINT = "https://southcentralus.api.cognitive.microsoft.com/"
 
-training_key = "27891bb13a064eea9d748e02a3c26603"
-prediction_key = "27891bb13a064eea9d748e02a3c26603"
-prediction_resource_id = "/subscriptions/10f63f4d-59f8-4014-8bc1-3a84a37c2b20/resourceGroups/foggyforestrg/providers/Microsoft.CognitiveServices/accounts/foggyforestrg_prediction"
-project_id = "d960a2df-49ea-48d6-a5c4-198438938c80"
+training_key = "c53d96b6b2c14ae6b9b0f4a4bfabf386"
+prediction_key = "c53d96b6b2c14ae6b9b0f4a4bfabf386"
+prediction_resource_id = "/subscriptions/50b8feba-a0e3-44d5-ae45-52321efa4e26/resourceGroups/DA-rg-custom-vision-03/providers/Microsoft.CognitiveServices/accounts/da-custom-vision-03"
+project_id = "4ba975a8-185b-4288-b3c6-d8ec34404da3"
 
-publish_iteration_name = "classifyModel"
+publish_iteration_name = "da-custom-vision-test"
 
 trainer = CustomVisionTrainingClient(training_key, endpoint=ENDPOINT)
 
@@ -21,6 +21,7 @@ resume_tag = trainer.create_tag(project_id, "Resume")
 email_tag = trainer.create_tag(project_id, "Email")
 report_tag = trainer.create_tag(project_id, "Report")
 
+
 tags = [notes_tag, memo_tag, news_tag, report_tag, resume_tag, email_tag]
 
 #Add Images
@@ -30,21 +31,24 @@ for tag in tags:
     image_list = []
     print("tag name: ",tag.name)
     base_image_url = "./" + tag.name + "/training/"
-
+    count = 0
     for image_path in glob.glob(base_image_url + '*.jpg'):
+        if count == 63:
+            break
+        count += 1
         path, file_name = os.path.split(image_path)
         # path = path/to/file
         # filename = foobar.txt
         with open(image_path, "rb") as image_contents:
             image_list.append(ImageFileCreateEntry(name=file_name, contents=image_contents.read(), tag_ids=[tag.id]))
     print("Uploading new batch of images")
-    print(image_list==[])
     upload_result = trainer.create_images_from_files(project_id, images=image_list)
     if not upload_result.is_batch_successful:
         print("Image batch upload failed.")
         for image in upload_result.images:
             print("Image status: ", image.status)
         exit(-1)
+    print("Upload batch successful")
 
 
 import time

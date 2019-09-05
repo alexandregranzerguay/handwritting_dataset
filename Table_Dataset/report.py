@@ -10,7 +10,11 @@ def openReport(filepath):
         sum_success = 0
         for line in report:
             counter+=1
-            sum_proba += line['probability']
+            try:
+                sum_proba += line['probability']
+            except:
+                print('process did not complete on this image: ', line)
+                continue
             if line['success'] :
                 sum_success += 1
         a,b = calculations(sum_proba, sum_success, counter)   

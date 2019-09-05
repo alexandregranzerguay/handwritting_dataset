@@ -2,8 +2,8 @@ import requests, json
 import shutil, random, os
 from report import openReport
 
-url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/98cfcb17-841d-4b72-a84b-84ec4151f5a2/classify/iterations/Iteration3/image"
-prediction_key = "27891bb13a064eea9d748e02a3c26603"
+url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/4ba975a8-185b-4288-b3c6-d8ec34404da3/classify/iterations/Iteration2/image"
+prediction_key = "8a68be6c7d834b03b6bb9428e90317ae"
 content_type = 'application/octet-stream'
 headers = {'Prediction-Key': prediction_key, 'Content-Type': content_type}
 
@@ -30,14 +30,18 @@ def successEval(tagName, trueName, probability):
 
 def main():
     # randomly select 10 documents in each category to test
-    categories = ['Email', 'Form', 'Letter', 'Memo', 'News', 'Note', 'Report', 'Resume']
+    categories = ['ADVE','Email', 'Memo', 'News', 'Note', 'Report', 'Resume']
     # categories = ['ADVE', 'Email', 'Form', 'Letter', 'Memo', 'News', 'Note', 'Report', 'Resume', 'Scientific']
     api_res = []
     mov_ave = 0
+    test_num = 'test1'
     for folder in categories:
-        filenames = random.sample(os.listdir('./'+folder+'/testing'), 20)
+        try: 
+            filenames = random.sample(os.listdir('./'+folder+'/testing/'+test_num), 20)
+        except:
+            filenames = os.listdir('./'+folder+'/testing/'+test_num)
         for fname in filenames:
-            srcpath = os.path.join('./'+folder+'/testing', fname)
+            srcpath = os.path.join('./'+folder+'/testing/'+test_num, fname)
             # make request to vision
             print(srcpath)
             data = open(srcpath, 'rb').read()
